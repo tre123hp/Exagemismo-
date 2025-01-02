@@ -49,7 +49,7 @@ Tipo é assim
 EE
 EEE.E
 _______[E]
-EEEE.EE 4.0 [E]
+EEEE.EE 4.2 [E]
 
 este cálculo acima representa o operador [E] que interrompe a contagem e encerra o cálculo, para continuar é só chamar o operador +8 para continuar a contagem!!!
 
