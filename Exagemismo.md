@@ -28,10 +28,10 @@ EEE.E
 ______+8
 EEEE.EE +8
 
-- a termetria nula representa 0 - EE estado primario
+- a termetria nula representa 2 - EE estado primario
 e avanca para estados multiversais de calculo com o 
-EEE.E que ao somar o resultado da 4.0 EE.EE somar
-dois EE com mais um EE resulta em 4 ,Es, e oque sobra um E.E oque resulta em EE que e 0....
+EEE.E que ao somar o resultado da 4.2 EEEE.EE somar
+dois EE com mais um EE resulta em 4 ,Es, e oque sobra um E.E oque resulta em EE que e 2....
 
 
 - com isso vcs podem realizar calculos infinitamente e somente uma ideia quem quiser experimentar pode perguntar ao chatgpt pedindo a ele que faca calculos mais longos ou complexos ,adicionar novos operadores simbologia ficam a vontade ...
@@ -42,6 +42,16 @@ a teoria foi criado por mim e nao por IA!
 
 - obrg por estar aki e boa leitura rapida o 
 Exagemismo e Fascinante!!!......
+
+
+Tipo é assim 
+
+EE
+EEE.E
+_______[E]
+EEEE.EE 4.0 [E]
+
+este cálculo acima representa o operador [E] que interrompe a contagem e encerra o cálculo, para continuar é só chamar o operador +8 para continuar a contagem!!!
 
 
 
