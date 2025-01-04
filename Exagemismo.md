@@ -26,11 +26,11 @@ exemplo -
 EE
 EEE.E
 ______+8
-EEEEEEEEE.E = 9.1+8
+EEEEE.E = 5.1+8
 
 - a termetria nula representa 2 - EE estado primario
 e avanca para estados multiversais de calculo com o 
-o exagemismo trabalha somando ou subtraindo de 2 em 2 , 2 Es vale 4  e mais 2 vale mais 4 com mais um E da total de 9 Es e oque sobra mais um E que é 1 ...
+o exagemismo trabalha somando ou subtraindo de 2 em 2 , 2 Es vale 2   e mais 2 vale mais 2 com mais um E da total de 5 Es e oque sobra mais um E que é 1 ...
 
 
 - com isso vcs podem realizar calculos infinitamente e somente uma ideia quem quiser experimentar pode perguntar ao chatgpt pedindo a ele que faca calculos mais longos ou complexos ,adicionar novos operadores simbologia ficam a vontade ...
@@ -48,7 +48,7 @@ Tipo é assim
 EE
 EEE.E
 _______[E]
-EEEEEEEEE.E 9.1 [E]
+EEEEE.E 5.1 [E]
 
 este cálculo acima representa o operador [E] que interrompe a contagem e encerra o cálculo, para continuar é só chamar o operador +8 para continuar a contagem!!!
 
